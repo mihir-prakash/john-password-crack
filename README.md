@@ -1,7 +1,7 @@
 # 🔐 ZIP Password Cracking with John the Ripper  
-A **password-cracking demo** using **John the Ripper (Jumbo Edition)** to simulate brute-force attacks on **ZIP files**.
+A **password-cracking demo** using **John the Ripper (Jumbo Edition)** to start brute-force attacks on **ZIP files**.
 
-This script **extracts password hashes from a protected ZIP file** and **cracks the password** using a **wordlist attack** while simulating a brute-force delay for realism.
+This script **extracts password hashes from a protected ZIP file** and **cracks the password** using a **brute force approach**
 
 ---
 
