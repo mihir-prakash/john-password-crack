@@ -1,0 +1,1 @@
+protected.zip/test.txt:$pkzip2$1*2*2*0*37*2b*d3864201*0*42*0*37*d386*7cc5*b9fb77dd33dd992f1850b23ee460ab2f5b6d2695875af2d87a3543af938023fe5b10d0a3148f70db9374126259cc613581a8be6b91f496*$/pkzip2$:test.txt:protected.zip::protected.zip
